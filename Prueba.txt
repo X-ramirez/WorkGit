@@ -1,1 +1,30 @@
 Esto es una prueba
+
+Comando de gitHUB
+
+CD ---- Entrar a un directorio
+ls ---- muestra los archivos de un directorio
+
+CONFIGURAR NOMBRE Y EMAIL PARA GITHUB
+
+git config --global user.name "nombre"
+git config --gobal user.email jkasdjasjhkja@.com
+
+CLONAR EL REPOSITORIO
+
+git clone URL
+
+Pasos para cargar un archivo a git hub
+
+git add filename
+
+git status
+
+git commit -m "name commit" file name
+
+git push -u origin master
+
+Modificar un archivo 
+
+git commit -m "name commit" same file name or modified filename 
+
